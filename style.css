@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    gap: 100px;
+    height: 70vh;
+
+}
